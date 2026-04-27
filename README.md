@@ -45,6 +45,9 @@ Deja fait
 
 > ✅ Appareil reconnu correctement.
 
+<img width="1238" height="359" alt="image" src="https://github.com/user-attachments/assets/27044798-a9b3-4087-ac7d-57c2bd4eabf9" />
+
+
 ---
 
 ### Étape 3 — Déploiement de `frida-server`
