@@ -194,3 +194,9 @@ Filtrage des modules chargés : bibliothèques `libssl.so` / `libcrypto.so` iden
 ---
 
 > ⚠️ **Avertissement :** Ce lab a été réalisé dans un cadre strictement pédagogique sur un environnement autorisé. Aucune application tierce n'a été ciblée. Ce rapport ne doit pas être utilisé à des fins malveillantes.
+
+<img width="1694" height="199" alt="image" src="https://github.com/user-attachments/assets/b263b953-ef79-49f3-a8ed-d597936a3615" />
+
+<img width="1413" height="116" alt="image" src="https://github.com/user-attachments/assets/95659d34-8bf4-4665-828e-1540eb869511" />
+
+
