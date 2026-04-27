@@ -41,7 +41,7 @@ Installation de `frida` et `frida-tools` via pip. Vérification de la version av
 
 ### Étape 2 — Installation des outils Android (ADB)
 
-Téléchargement des Android Platform Tools. Activation du Débogage USB sur l'appareil. Vérification via `adb devices` → statut `device`.
+Deja fait
 
 > ✅ Appareil reconnu correctement.
 
