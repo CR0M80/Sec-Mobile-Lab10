@@ -19,8 +19,6 @@
 
 Ce lab couvre l'installation, le déploiement et la prise en main de **Frida** dans un contexte d'analyse de sécurité mobile Android. Les travaux réalisés incluent : l'installation du client Frida, le déploiement de `frida-server` sur émulateur, la validation de la connexion, l'exploration de la console interactive et l'instrumentation de méthodes Java et natives sensibles.
 
-**Niveau de complexité : 🟡 Intermédiaire**
-
 Actions couvertes :
 - Installation et vérification de l'environnement Frida.
 - Déploiement de `frida-server` sur émulateur Android en mode root.
