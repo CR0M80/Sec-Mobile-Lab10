@@ -253,11 +253,17 @@ Hooks installés et testés :
 | Impact potentiel | Observation des métadonnées réseau sans déchiffrement. |
 | Remédiation | Implémenter Certificate Pinning et chiffrement applicatif de bout en bout. |
 <img width="822" height="215" alt="Screenshot 2026-05-02 143022" src="https://github.com/user-attachments/assets/238ffecc-a7ba-4cee-81fa-2d269107ffac" />
+
 <img width="752" height="199" alt="Screenshot 2026-05-02 143337" src="https://github.com/user-attachments/assets/a59467e9-c2f2-4675-a7c3-83f376e9244d" />
+
 <img width="764" height="81" alt="Screenshot 2026-05-02 205118" src="https://github.com/user-attachments/assets/0f962642-790f-427e-9f1d-44f4d476c6c4" />
+
 <img width="556" height="167" alt="Screenshot 2026-05-02 133108" src="https://github.com/user-attachments/assets/caa91b6b-01c0-4305-9901-11ed3d112ff9" />
+
 <img width="455" height="127" alt="Screenshot 2026-05-02 133130" src="https://github.com/user-attachments/assets/239d2b76-d3ed-46d1-96a5-c26b8c51cc40" />
+
 <img width="507" height="115" alt="Screenshot 2026-05-02 133154" src="https://github.com/user-attachments/assets/d3a22e37-25b4-41f0-87ff-4c97d90af7b6" />
+
 <img width="821" height="370" alt="Screenshot 2026-05-02 141612" src="https://github.com/user-attachments/assets/e80abd0c-8a6e-445f-8af4-7cdbd1a56fe3" />
 
 
